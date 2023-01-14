@@ -4,11 +4,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/daviwla?style=plastic&color=red)
 ![GitHub User's stars](https://img.shields.io/github/stars/daviwla?affiliations=OWNER&style=plastic&color=red)
 
-![daviwla's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviwla&theme=codeSTACKr&show_icons=true)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats/)
-
 <h2 align="left" id="daviwla">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -59,5 +54,9 @@
         <br>Ansible
   </tr>
 </table>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviwla&show_icons=true&theme=codeSTACKr&title_color=FF0000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviwla&theme=codeSTACKr&title_color=FF0000)](https://github.com/anuraghazra/github-readme-stats)
 
 

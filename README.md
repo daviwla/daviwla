@@ -5,12 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/daviwla?style=plastic&color=red)
 ![GitHub User's stars](https://img.shields.io/github/stars/daviwla?affiliations=OWNER&style=plastic&color=red)
 
-</a>
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=daviwla&show_icons=true&theme=monokai&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviwla&theme=monokai&show_icons=true" />
-</p>
-<br>
+<img src="https://github.com/daviwla/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 <h2 align="left" id="daviwla">Favorite Tech</h2>
 

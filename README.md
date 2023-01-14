@@ -7,6 +7,7 @@
 
 ![daviwla GitHub stats](https://github-readme-stats.vercel.app/api?username=daviwla&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviwla)](https://github.com/daviwla/github-readme-stats)
 
 <h2 align="left" id="daviwla">Favorite Tech</h2>
 

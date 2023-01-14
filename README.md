@@ -1,11 +1,12 @@
 # :wave: Hello there! I'm Davi Souza
 ## I am a DevOps Engineering</h3>
 
-
 ![GitHub followers](https://img.shields.io/github/followers/daviwla?style=plastic&color=red)
 ![GitHub User's stars](https://img.shields.io/github/stars/daviwla?affiliations=OWNER&style=plastic&color=red)
 
-<img src="https://github.com/daviwla/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+![daviwla GitHub stats](https://github-readme-stats.vercel.app/api?username=daviwla&count_private=true)
+
 
 <h2 align="left" id="daviwla">Favorite Tech</h2>
 

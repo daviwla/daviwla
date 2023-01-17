@@ -1,8 +1,8 @@
 # :wave: Hello there! I'm Davi Souza
 ## I am a DevOps Engineering</h3>
-
-![GitHub followers](https://img.shields.io/github/followers/daviwla?style=plastic&color=red)
-![GitHub User's stars](https://img.shields.io/github/stars/daviwla?affiliations=OWNER&style=plastic&color=red)
+## Follow my main github here:
+<div><img src="https://github.com/daviwla/daviwla/blob/main/img/2.svg" alt="Image" width="200px" radio=4><a href="https://github.com/DedicadoTech"></a  >
+</div>
 
 <h2 align="left" id="daviwla">Favorite Tech</h2>
 
